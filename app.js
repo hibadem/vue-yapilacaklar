@@ -1,6 +1,6 @@
 const app = new Vue({
     el: '#app',
-    name: 'Uzaktan Kurs',
+    name: 'Vue JS',
     data: {
         eklenecekVeri:{
             title:'',status:true
